@@ -1,4 +1,4 @@
-# 👑 Welcome to my GitHub
+# Welcome to my GitHub
 
 Hello! My name is **Joana André da Costa*.  
 I am passionate about **software development, systems programming and web technologies**.
@@ -7,7 +7,7 @@ Currently I am improving my programming skills and building projects while learn
 
 ---
 
-## 🚀 My Learning Journey
+## My Learning Journey
 
 I am currently studying through **The Odin Project**, where I am strengthening my knowledge in **full-stack web development** and improving my problem solving skills through real projects.
 
